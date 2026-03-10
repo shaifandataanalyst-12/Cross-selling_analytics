@@ -51,32 +51,19 @@ The dataset contains customer demographic, behavioral, and insurance product inf
 
 Key variables include:
 
-Age
-
-Gender
-
-Marital Status
-
-Family Members
-
-Education
-
-Occupation
-
-Job Title
-
-Income
-
-Current Product
-
-Current Product Type
-
-Current Coverage
-
-New Product Type
-
-New Coverage
-
+Age,
+Gender,
+Marital Status,
+Family Members,
+Education,
+Occupation,
+Job Title,
+Income,
+Current Product,
+Current Product Type,
+Current Coverage,
+New Product Type,
+New Coverage,
 Converted (Target Variable)
 
 The Converted variable indicates whether a customer purchased the cross-sell product.
