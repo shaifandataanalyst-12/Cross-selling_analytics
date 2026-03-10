@@ -1,4 +1,5 @@
 # Insurance Cross-Selling Strategy Analysis
+Performed exploratory data analysis on 50K+ insurance customer records.
 ## Project Overview
 
 This project analyzes customer data from an insurance company to identify opportunities for cross-selling additional insurance products to existing customers. The objective is to understand customer behavior, evaluate current product coverage, and determine which customers are most likely to adopt additional insurance services.
