@@ -33,17 +33,17 @@ These strategies help insurance companies determine which customers are most sui
 
 ## Tools used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 ## Dataset Description
 
@@ -74,19 +74,19 @@ A structured data engineering strategy was applied to handle missing values and 
 
 Examples include:
 
-Missing Age values replaced using mean/median comparison
+- Missing Age values replaced using mean/median comparison
 
-Family members filled using median values
+- Family members filled using median values
 
-Education, occupation, and job title replaced using mode
+- Education, occupation, and job title replaced using mode
 
-Income imputed using occupation-level statistics
+- Income imputed using occupation-level statistics
 
-Product and coverage fields derived using reference variables
+- Product and coverage fields derived using reference variables
 
-Target variable Converted handled using predictive modeling rather than simple imputation 
+- Target variable Converted handled using predictive modeling rather than simple imputation 
 
-Data Engineering Strategy
+- Data Engineering Strategy
 
 This ensured the dataset was reliable before performing analysis.
 
@@ -96,17 +96,17 @@ EDA was performed to understand customer demographics and purchasing behavior.
 
 Key analysis areas included:
 
-Customer demographic distribution
+- Customer demographic distribution
 
-Income vs product coverage patterns
+- Income vs product coverage patterns
 
-Current insurance product adoption
+- Current insurance product adoption
 
-Customer rating analysis
+- Customer rating analysis
 
-Cross-selling conversion patterns
+- Cross-selling conversion patterns
 
-Coverage amount comparison
+- Coverage amount comparison
 
 Visualization libraries such as Seaborn and Matplotlib were used to identify trends and correlations.
 
@@ -131,12 +131,12 @@ Customers with better satisfaction ratings were more likely to convert.
 
 The analysis helps insurance companies:
 
-Identify customers with high cross-selling potential
+- Identify customers with high cross-selling potential
 
-Improve targeted marketing campaigns
+- Improve targeted marketing campaigns
 
-Increase customer lifetime value
+- Increase customer lifetime value
 
-Strengthen long-term customer relationships
+- Strengthen long-term customer relationships
 
-Optimize product recommendation strategies
+- Optimize product recommendation strategies
