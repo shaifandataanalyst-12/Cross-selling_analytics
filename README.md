@@ -9,13 +9,13 @@ The analysis combines business understanding, data engineering, exploratory data
 
 Insurance companies aim to increase revenue by selling additional products to their existing customers. Cross-selling helps improve:
 
-Customer lifetime value (CLV)
+- Customer lifetime value (CLV)
 
-Customer retention
+- Customer retention
 
-Revenue per customer
+- Revenue per customer
 
-Long-term customer relationships
+- Long-term customer relationships
 
 Instead of acquiring new customers, the strategy focuses on identifying existing customers who are likely to purchase additional insurance products. 
 
