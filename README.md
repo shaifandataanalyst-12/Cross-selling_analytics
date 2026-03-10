@@ -142,11 +142,9 @@ The analysis helps insurance companies:
 - Optimize product recommendation strategies
 
 ## Screenshots from ppt
-
-<img width="500" height="500" alt="Screenshot 2026-03-10 174505" src="https://github.com/user-attachments/assets/5f70d9d9-d5a6-4b7f-81ca-fdc24206ff80" />
 <img width="500" height="500" alt="Screenshot 2026-03-10 174454" src="https://github.com/user-attachments/assets/2ce8332e-92a5-42c5-9b55-d705f335f54b" />
 <img width="500" height="500" alt="Screenshot 2026-03-10 174443" src="https://github.com/user-attachments/assets/e60ce5b2-53e8-44ab-a87d-22de7e5e97c6" />
 <img width="500" height="500" alt="Screenshot 2026-03-10 174427" src="https://github.com/user-attachments/assets/232a76d5-fcbb-4c78-99dd-2d59e419c10a" />
 <img width="500" height="500" alt="Screenshot 2026-03-10 174416" src="https://github.com/user-attachments/assets/45e41852-f639-4acb-8748-f7448f4d83e9" />
 <img width="500" height="500" alt="Screenshot 2026-03-10 174409" src="https://github.com/user-attachments/assets/f37f7962-2374-489b-9b34-63cba95bcebe" />
-
+<img width="500" height="500" alt="Screenshot 2026-03-10 174505" src="https://github.com/user-attachments/assets/5f70d9d9-d5a6-4b7f-81ca-fdc24206ff80" />
